@@ -1,4 +1,7 @@
 # PRICE CARD TEMPLATE
+
+This project is about Price Card Template using REACT JS
+
 OUTPUT - https://sha-price-card.netlify.app
 
 
