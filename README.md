@@ -1,11 +1,11 @@
 # PRICE CARD TEMPLATE
 This project is about Price Card Template using REACT JS
 
-# FEATURES
+**FEATURES**
 Responsive design
 Dynamic price cards
 
-# OUTPUT
+**OUTPUT**
 https://sha-price-card.netlify.app
 
 
