@@ -1,8 +1,12 @@
 # PRICE CARD TEMPLATE
-
 This project is about Price Card Template using REACT JS
 
-OUTPUT - https://sha-price-card.netlify.app
+# FEATURES
+Responsive design
+Dynamic price cards
+
+# OUTPUT
+https://sha-price-card.netlify.app
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
